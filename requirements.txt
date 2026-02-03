@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+debugpy
+pytest
+httpx
